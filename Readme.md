@@ -8,7 +8,7 @@ Anyhow, here are some notes:
   autocomplete. Not a good one for production but does the job.
 * The api won't respond to more than 3 character keywords, so
 bear that in mind when using the SearchAirport component
-  * The Booking component exposes an onSearchFlights prop that 
+* The Booking component exposes an onSearchFlights prop that 
 runs a callback whenever the search button is pressed. 
 You can check the submitted object in the console
   
